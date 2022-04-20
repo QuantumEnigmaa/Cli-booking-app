@@ -1,2 +1,3 @@
 # Cli-booking-app
-Small cli application written in GO to book tickets to conferences. 
+
+This application was made with the sole goal to allow me to learn GO and does not aim to provide any real-life usage.  
